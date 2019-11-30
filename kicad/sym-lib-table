@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name rur)(type Legacy)(uri ${KIPRJMOD}/rur.lib)(options "")(descr ""))
+  (lib (name sd_card)(type Legacy)(uri ${KIPRJMOD}/sd_card.lib)(options "")(descr ""))
+  (lib (name switch)(type Legacy)(uri ${KIPRJMOD}/switch.lib)(options "")(descr ""))
+)

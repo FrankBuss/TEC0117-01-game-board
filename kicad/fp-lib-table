@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name TEC0117-01-game-board)(type KiCad)(uri /home/frank/data/projects/TEC0117-01-game-board)(options "")(descr ""))
+  (lib (name audio-jack)(type KiCad)(uri ${KIPRJMOD}/audio-jack.pretty)(options "")(descr ""))
+)
